@@ -1,4 +1,4 @@
-package com.example.upload.config;
+package com.example.file.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
